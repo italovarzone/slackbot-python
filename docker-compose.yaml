@@ -1,0 +1,9 @@
+version: "3"
+services:
+  app:
+    build:
+      context: .
+      dockerfile: ./docker/Dockerfile
+    expose:
+      - "8000"
+    network_mode: "host"
