@@ -4,7 +4,7 @@ Esse README descreve a aplicação, formas de utilização, instalação e desen
 
 ## Descrição do Repositório ##
 
-Aplicação utilizada para gerenciar filas de integração no Slack da Napp.
+Aplicação utilizada para gerenciar filas de técnicos no Slack.
 
 v0.0.1
 
